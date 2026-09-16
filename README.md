@@ -1,4 +1,4 @@
-# YT-DLP Downloader
+# YT-DLP Manager
 
 A simple menu-driven Windows batch script for downloading video and audio with `yt-dlp`.
 
